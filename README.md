@@ -8,7 +8,7 @@
 [![ruancarreirogomes.github.io Badge](https://img.shields.io/badge/-ruancarreirogomes.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://ruancarreirogomes.github.io/webcontent/)](https://ruancarreirogomes.github.io/webcontent/)
 
 <a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSoaresDeSiqueira&layout=compact&theme=dark&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCarreiroGomes&layout=compact&theme=dark&langs_count=8" />
 </a>
 <hr>
 
