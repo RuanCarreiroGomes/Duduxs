@@ -5,7 +5,7 @@
 
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/eduardojose)](https://wa.me/qr/JOOYRRZW2XVID1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:duduxss3@gmail.com)](mailto:ruanvictorp22111@gmail.com)
-[![duduxss3.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://duduxs.github.io/portfolio/)](https://duduxs.github.io/portfolio/)
+[![ruancarreirogomes.github.io Badge](https://img.shields.io/badge/-duduxs.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://ruancarreirogomes.github.io/webcontent/)](https://ruancarreirogomes.github.io/webcontent/)
 
 <hr>
 
