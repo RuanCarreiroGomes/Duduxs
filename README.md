@@ -1,6 +1,6 @@
 ## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ruan Victor
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duduxs&show_icons=true&bg_color=14274e&text_color=FFF&title_color=FFFF&icon_color=FFF)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RuanCarreiroGomes&show_icons=true&bg_color=14274e&text_color=FFF&title_color=FFFF&icon_color=FFF)
 
 
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/eduardojose)](https://wa.me/qr/JOOYRRZW2XVID1)
