@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:duduxss3@gmail.com)](mailto:ruanvictorp22111@gmail.com)
 [![ruancarreirogomes.github.io Badge](https://img.shields.io/badge/-ruancarreirogomes.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://ruancarreirogomes.github.io/webcontent/)](https://ruancarreirogomes.github.io/webcontent/)
 
-<a href="https://github.com/Daggy1234">
+<a href="https://github.com/RuanCarreiroGomes">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCarreiroGomes&layout=compact&theme=dark&langs_count=8" />
 </a>
 <hr>
