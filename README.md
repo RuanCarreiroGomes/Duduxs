@@ -5,7 +5,7 @@
 
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/eduardojose)](https://wa.me/qr/JOOYRRZW2XVID1)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:duduxss3@gmail.com)](mailto:ruanvictorp22111@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-ruancarreirogomes.github.io-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://https://www.instagram.com/rruan_victor//)](https://www.instagram.com/rruan_victor/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&logo=DTube&color=14274e&link=https://https://www.instagram.com/rruan_victor//)](https://www.instagram.com/rruan_victor/)
 
 <a href="https://github.com/RuanCarreiroGomes">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCarreiroGomes&layout=compact&theme=dark&langs_count=8" />
